@@ -1,1 +1,3 @@
-# simple-mobile-app-826p
+# Simple Mobile App 826P
+
+A mobile application for modern development workflows.
